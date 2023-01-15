@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptoyeye
 - 👀 I’m interested in Web3
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on some front end
 - 📫 How to reach me github
 
